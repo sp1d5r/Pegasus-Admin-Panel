@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ac07990-7542-4f3f-b9be-033876f85764" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/page1Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/page2Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/page3Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/page4Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/page5Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/page6Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/questions1Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/questions2Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/questions3Layout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RevisionNotesPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-pages/addPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-pages/pageTypes/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-question-pages/AddQuestionPages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-questions/addQuestions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add-revision-notes/addRevisionNotes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/add/Add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/course/coursepage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/course/questions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/course/revisionTopic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homepage/course.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homepage/courses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homepage/homePageCourses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homepage/homepage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/page/editPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/profile/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/question-page/EditQuestionPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/questions/questionCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/questions/questionPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/topic/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/topic/topicPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="7ac07990-7542-4f3f-b9be-033876f85764" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +94,7 @@
       <workItem from="1598634886017" duration="33206000" />
       <workItem from="1600452024296" duration="14700000" />
       <workItem from="1600805730319" duration="2268000" />
-      <workItem from="1600954906579" duration="3868000" />
+      <workItem from="1600954906579" duration="4132000" />
     </task>
     <servers />
   </component>
