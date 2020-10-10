@@ -88,7 +88,24 @@ function App() {
     <div className="App">
 
       <NavigationBar />
-      <AppMain />
+        <BrowserRouter>
+            <Switch>
+                <Route path={'/login'} exact component={Login} />
+                <Route path ="/" exact component={Homepage}/>
+                <Route path={'/add'} exact component={Add} />
+                <Route path={'/course'} component={CoursePage}/>
+                <Route path={'/add-revision-notes/'} component={AddRevisionNotes} />
+                <Route path={'/page/'} component={EditPage} />
+                <Route path={'/edit/'} component={Edit} />
+                <Route path={'/topic/'} component={TopicPage}/>
+                <Route path={'/add-pages/'} component={AddPage} />
+                <Route path={'/add-questions/'} component={AddQuestions} />
+                <Route path={'/questions/'} component={QuestionPage}/>
+                <Route path={'/add-question-pages/'} component={AddQuestionPages} />
+                <Route path={'/question-page/'} component={EditQuestionPage} />
+                <Route path={'/profile/'} component={Profile} />
+            </Switch>
+        </BrowserRouter>
 
     </div>
   );

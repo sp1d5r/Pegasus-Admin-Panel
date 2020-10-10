@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ac07990-7542-4f3f-b9be-033876f85764" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/edit/Edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src/components/questions" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -106,7 +108,8 @@
       <workItem from="1598634886017" duration="33206000" />
       <workItem from="1600452024296" duration="14700000" />
       <workItem from="1600805730319" duration="2268000" />
-      <workItem from="1600954906579" duration="9243000" />
+      <workItem from="1600954906579" duration="13798000" />
+      <workItem from="1602331662342" duration="198000" />
     </task>
     <servers />
   </component>
@@ -122,26 +125,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600453434390" />
-    <state width="1419" height="226" key="GridCell.Tab.0.bottom" timestamp="1600969912612">
+    <state width="1419" height="226" key="GridCell.Tab.0.bottom" timestamp="1602350498448">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-462.1920.1080@0.0.1440.900" timestamp="1598706205073" />
-    <state width="1419" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600969912612" />
-    <state width="1419" height="226" key="GridCell.Tab.0.center" timestamp="1600969912608">
+    <state width="1419" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602350498448" />
+    <state width="1419" height="226" key="GridCell.Tab.0.center" timestamp="1602350498447">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="226" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-462.1920.1080@0.0.1440.900" timestamp="1598706205069" />
-    <state width="1419" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600969912608" />
-    <state width="1419" height="226" key="GridCell.Tab.0.left" timestamp="1600969912606">
+    <state width="1419" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602350498447" />
+    <state width="1419" height="226" key="GridCell.Tab.0.left" timestamp="1602350498446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="226" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-462.1920.1080@0.0.1440.900" timestamp="1598706205064" />
-    <state width="1419" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600969912606" />
-    <state width="1419" height="226" key="GridCell.Tab.0.right" timestamp="1600969912610">
+    <state width="1419" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602350498446" />
+    <state width="1419" height="226" key="GridCell.Tab.0.right" timestamp="1602350498447">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="226" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-462.1920.1080@0.0.1440.900" timestamp="1598706205071" />
-    <state width="1419" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600969912610" />
+    <state width="1419" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602350498447" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1599509464666">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

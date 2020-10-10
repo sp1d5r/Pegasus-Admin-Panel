@@ -21,6 +21,9 @@ class Edit extends Component{
         }
     }
 
+    handleChangeComplete = (color) => {
+        this.setState({ color: color.hex });
+    };
 
     updateInputVal = (val, prop) => {
         const state = this.state;
