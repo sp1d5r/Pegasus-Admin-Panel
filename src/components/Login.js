@@ -44,7 +44,7 @@ class Login extends Component {
                         <p style={{textAlign: 'left', marginTop: 30}}>
                             Enter Password:
                         </p>
-                        <Form.Control name="password" placeholder="Password" onChange={(val) => this.updateInputVal(val, 'password')}/>
+                        <Form.Control name="password" type="password" placeholder="Password" onChange={(val) => this.updateInputVal(val, 'password')}/>
 
                         <Button variant="primary" onClick={() => this.updateFirebaseDatabase()} style={{display: 'block', marginLeft: 'auto', marginRight: 'auto', marginTop: 50}}>
                             Login
