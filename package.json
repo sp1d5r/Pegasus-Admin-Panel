@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.2",
     "create-react-app": "^3.4.1",
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "filepond-plugin-file-validate-type": "^1.2.5",
     "filepond-plugin-image-exif-orientation": "^1.0.9",
