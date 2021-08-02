@@ -24,7 +24,7 @@ class NavigationBar extends Component {
 
     render() {
         return (
-            <Navbar>
+            <Navbar >
                 <Navbar.Brand href="/">PMT Admin Panel</Navbar.Brand>
                 <Navbar.Toggle/>
                 <Navbar.Collapse className="justify-content-end">
